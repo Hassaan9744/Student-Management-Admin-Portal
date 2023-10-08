@@ -1,0 +1,13 @@
+@media (max-width: 991px) and (min-width: 569px) {
+    .dashboard-box{
+        // min-width: 200px;
+        min-height: 200px !important;
+    }
+
+}
+@media (max-width: 568px) {
+    .dashboard-box{
+        min-height: 150px !important;
+        font-size: 10px;
+    }
+}
